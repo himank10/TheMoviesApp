@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="genres">
+        <item name="title_action">@string/genre_action</item>
+        <item name="title_adventure">@string/genre_adventure</item>
+        <item name="title_animation">@string/genre_animation</item>
+        <item name="title_comedy">@string/genre_comedy</item>
+        <item name="title_crime">@string/genre_crime</item>
+        <item name="title_documentary">@string/genre_documentary</item>
+        <item name="title_drama">@string/genre_drama</item>
+        <item name="title_family">@string/genre_family</item>
+        <item name="title_fantasy">@string/genre_fantasy</item>
+        <item name="title_history">@string/genre_history</item>
+        <item name="title_horror">@string/genre_horror</item>
+        <item name="title_music">@string/genre_music</item>
+        <item name="title_mystery">@string/genre_mystery</item>
+        <item name="title_romance">@string/genre_romance</item>
+        <item name="genre_science_fiction">@string/genre_science_fiction</item>
+        <item name="genre_tv_movie">@string/genre_tv_movie</item>
+        <item name="title_thriller">@string/genre_thriller</item>
+        <item name="title_war">@string/genre_war</item>
+        <item name="title_western">@string/genre_western</item>
+    </string-array>
+    <string-array name="genresValues" translatable="false">
+        <item name="genre_action">28</item>
+        <item name="genre_adventure">12</item>
+        <item name="genre_animation">16</item>
+        <item name="genre_comedy">35</item>
+        <item name="genre_crime">80</item>
+        <item name="genre_documentary">99</item>
+        <item name="genre_drama">18</item>
+        <item name="genre_family">10751</item>
+        <item name="genre_fantasy">14</item>
+        <item name="genre_history">36</item>
+        <item name="genre_horror">27</item>
+        <item name="genre_music">10402</item>
+        <item name="genre_mystery">9648</item>
+        <item name="genre_romance">10749</item>
+        <item name="genre_science_fiction">878</item>
+        <item name="genre_tv_movie">10770</item>
+        <item name="genre_thriller">53</item>
+        <item name="genre_war">10752</item>
+        <item name="genre_western">37</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item name="title_popularity_desc">@string/title_popularity_desc</item>
+        <item name="title_popularity_asc">@string/title_popularity_asc</item>
+        <item name="title_rating_desc">@string/title_rating_desc</item>
+        <item name="title_rating_asc">@string/title_rating_asc</item>
+        <item name="title_release_date_desc">@string/title_release_date_desc</item>
+        <item name="title_release_date_asc">@string/title_release_date_asc</item>
+    </string-array>
+    <string-array name="sortValuesMovie" translatable="false">
+        <item name="sort_popularity_desc">popularity.desc</item>
+        <item name="sort_popularity_asc">popularity.asc</item>
+        <item name="sort_rating_desc">rating.desc</item>
+        <item name="sort_rating_asc">rating.asc</item>
+        <item name="sort_release_date_desc">release_date.desc</item>
+        <item name="sort_release_date_asc">release_date.asc</item>
+    </string-array>
+    <string-array name="sortValuesTv" translatable="false">
+        <item name="sort_popularity_desc">popularity.desc</item>
+        <item name="sort_popularity_asc">popularity.asc</item>
+        <item name="sort_rating_desc">rating.desc</item>
+        <item name="sort_rating_asc">rating.asc</item>
+        <item name="sort_first_air_date_desc">first_air_date.desc</item>
+        <item name="sort_first_air_date_asc">first_air_date.asc</item>
+    </string-array>
+</resources>
